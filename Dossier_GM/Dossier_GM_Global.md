@@ -36,13 +36,13 @@
 
 ___
 
-#### Présentation du jeu
+### Présentation du jeu
 
-##### Le pitch - comment résumer le principe de jeu en s’abstrayant du gameplay
+#### Le pitch - comment résumer le principe de jeu en s’abstrayant du gameplay
 
 Le jeu consiste à un jeu de combat avec un gameplay dynamique jouant sur le timing et la stratégie, elle joue avec l’envie de prendre de la vitesse et de toujours plus augmenter le rythme de la partie.
 
-##### Le principe - le point de gameplay centrale
+#### Le principe - le point de gameplay centrale
 
 Le gameplay du jeu se base sur trois points.
 1. Tout d’abord, le **déplacement**. Le joueur est constamment en train de se déplacer en ligne droite. Il ne change de direction que lorsqu’il frappe un autre joueur ou une plateforme.Pour chaque coup bien timé, il accélère.
@@ -57,6 +57,6 @@ Enfin, la vitesse fait varier d'autre statistiques de l'avatar. Il y a la porté
 
 
 
-###### La navigation - présentation général du gameplay (interface, type de jeu, accent)
-###### L’originalité - en quoi le gameplay est unique
-###### Le public cible - quel type de joueur, en quoi le jeu est adapté à ce public
+#### La navigation - présentation général du gameplay (interface, type de jeu, accent)
+#### L’originalité - en quoi le gameplay est unique
+#### Le public cible - quel type de joueur, en quoi le jeu est adapté à ce public
