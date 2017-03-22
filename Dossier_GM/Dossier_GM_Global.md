@@ -8,32 +8,6 @@
   - La navigation : presentation général du gameplay (interface, type de jeu, accent)
   - L’originalité : en quoi le gameplay est unique
   - Le public cible : quel type de joueur, en quoi le jeu est adapté à ce public
-
-#### La technologie
-  - La plateforme : quelle plateforme, pourquoi? Si multiplateforme comment gérer portage?
-  - Le développement : quelle technologie, pourquoi?
-
-#### Le scénario
-  - L’histoire
-  - Les personnages
-
-#### Les mécanismes
-  - La prise en main
-  - Les déplacements
-  - L’interface utilisateur
-  - L’équilibrage
-  - La navigation : arbre détaillant l’organisation des menus avec détail de ce que fait chaque élément
-
-#### Les différentes arènes - détailler le level design et les particularités de chaque map
-
-#### L’esthétique
-  - La charte graphique
-  - La charte sonore
-
-#### La communauté - quelle relation avec la communauté? Quelle type de comm’? Des événements?
-
-#### Le modèle économique - comment on gère le gain d'argent s'il y a?
-
 ___
 
 ### Présentation du jeu
