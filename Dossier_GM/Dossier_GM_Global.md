@@ -57,7 +57,7 @@ Enfin, la vitesse fait varier d'autre statistiques de l'avatar. Il y a la porté
 
 #### La navigation - présentation général du gameplay (interface, type de jeu, accent)
 
-Ressort est un jeu de combat plateforme qui met l'accent sur la capacité à suivre le rythme en matière d'execution et de prendre de bonnes décisions stratégiques face à son adversaire. En matière d'interface, les joueurs partagent un écran commun de l'arêne en entière. L'important en taille des personnages varieront donc en fonction de la taille de l'arêne.
+Ressort est un jeu de combat plateforme qui met l'accent sur la capacité à suivre le rythme en matière d'execution et de prendre de bonnes décisions stratégiques face à son adversaire. En matière d'interface, les joueurs partagent un écran commun d'une arêne visible entièrement, pour un point de vue de profil, et en . L'importance en taille des personnages varieront donc en fonction de la taille de l'arêne.
 Une vue approximative de ce quoi rendrait l'interface:
 
 ![exemple d'interface graphique approximative](img/exemple_interface.png)
