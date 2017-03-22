@@ -55,8 +55,17 @@ Tout d’abord au niveau du déplacement, plus on a de vitesse, plus on va vite,
 De plus, comme le joueur ne peut changer de direction que lorsqu’il frappe un joueur où un obstacle, plus il va vite, plus il changera de direction rapidement. Cela confère plusieurs avantages, comme plus de réactivité au joueur, ou de la maitrise sur sa position, mais rajoutera de la difficulté car il devra être encore plus réactif pour éviter de se prendre un mur sans le frapper.  
 Enfin, la vitesse fait varier d'autre statistiques de l'avatar. Il y a la portée d'attaque, plus le joueur va vite, plus il a de la portée ; des dégâts d'attaque, plus le joueur va vite, plus ses attaques feront de dégâts ; son angle de frappe possible, par contre, sera lui réduit avec la vitesse.
 
-
-
 #### La navigation - présentation général du gameplay (interface, type de jeu, accent)
+
+Ressort est un jeu de combat plateforme qui met l'accent sur la capacité à suivre le rythme en matière d'execution et de prendre de bonnes décisions stratégiques face à son adversaire. En matière d'interface, les joueurs partagent un écran commun de l'arêne en entière. L'important en taille des personnages varieront donc en fonction de la taille de l'arêne.
+Une vue approximative de ce quoi rendrait l'interface:
+
+![exemple d'interface graphique approximative](img/exemple_interface.png)
+
 #### L’originalité - en quoi le gameplay est unique
-#### Le public cible - quel type de joueur, en quoi le jeu est adapté à ce public
+
+Le jeu propose une méthode particulière de se déplacer avec son système de rebond qui tranche avec les autres jeux plateforme combat existants. Sa gestion de la vitesse et son influence dans la partie en fait un élément unique dans le gameplay de Ressort en tant que jeu de combat.
+
+#### Le publique cible - quel type de joueur, en quoi le jeu est adapté à ce publique
+
+Le publique cible serait essentiellement des joueurs experimentés en matière d'execution pour profiter pleinement du potientiel de jeu, avec notamment le système de vitesse croissante. De plus le jeu pose quelques barrières pour sa prise en main pour les joueurs débutants. En effet, le système de rebond peut être punitif s'il est mal executé et pourrait frustrer le joueur lors de sa prise en main. Enfin, le joueur a accès à beaucoup de verbes d'actions qu'il doit comprendre et maitriser, ce qui pose un autre soucis en matière de prise en main.
